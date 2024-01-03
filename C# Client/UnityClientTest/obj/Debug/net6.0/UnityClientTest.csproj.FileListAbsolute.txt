@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.AssemblyInfo.cs
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.exe
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.deps.json
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.runtimeconfig.json
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.dll
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.pdb
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.dll
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\refint\UnityClientTest.dll
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.pdb
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.genruntimeconfig.cache
+C:\Users\user\Desktop\UnityClientTest\UnityClientTest\obj\Debug\net6.0\ref\UnityClientTest.dll
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.exe
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.deps.json
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.runtimeconfig.json
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.dll
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\bin\Debug\net6.0\UnityClientTest.pdb
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.AssemblyInfo.cs
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.dll
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\refint\UnityClientTest.dll
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.pdb
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\UnityClientTest.genruntimeconfig.cache
+C:\Users\user\Desktop\Server Client\UnityClientTest\UnityClientTest\obj\Debug\net6.0\ref\UnityClientTest.dll

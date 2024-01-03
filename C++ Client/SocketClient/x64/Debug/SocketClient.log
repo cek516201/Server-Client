@@ -1,0 +1,12 @@
+﻿  client.cpp
+C:\Users\user\Desktop\Server Client\SocketClient\SocketClient\CVSP.h(11,1): warning C4005: 'WIN32': 매크로 재정의
+  (소스 파일 'client.cpp'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(38,1):
+  'WIN32'의 이전 정의를 참조하십시오.
+  
+C:\Users\user\Desktop\Server Client\SocketClient\SocketClient\client.cpp(92,68): warning C4267: '인수': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Server Client\SocketClient\SocketClient\client.cpp(25,6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\Server Client\SocketClient\SocketClient\client.cpp(125,18): warning C4244: '인수': 'SOCKET'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CVSP.cpp
+  코드를 생성하고 있습니다...
+  SocketClient.vcxproj -> C:\Users\user\Desktop\Server Client\SocketClient\x64\Debug\SocketClient.exe
